@@ -1,0 +1,12 @@
+[
+  {
+    "id": "F-001",
+    "title": "Health Check Endpoint",
+    "phase": "VERIFIED",
+    "spec_overview": "planning-artifacts/spec-F-001-health-check-overview.md",
+    "tasks": ["T-1", "T-2", "T-3", "T-4"],
+    "verified": true,
+    "verified_date": "2026-02-18",
+    "verification_artifact": "implementation-artifacts/2026-02-18-test-T-004.md"
+  }
+]
